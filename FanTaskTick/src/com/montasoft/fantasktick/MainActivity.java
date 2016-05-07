@@ -7,13 +7,17 @@ import java.util.ArrayList;
 import android.app.ActionBar;
 import android.app.ActionBar.LayoutParams;
 import android.app.Fragment;
+import android.content.Context;
+import android.graphics.Point;
 import android.os.Bundle;
 import android.text.Editable;
+import android.view.Display;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.WindowManager;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
@@ -65,8 +69,18 @@ public class MainActivity extends Activity {
 		public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 			final View rootView = inflater.inflate(R.layout.fragment_main, container, false);
 			TextView taskGroupView = (TextView) rootView.findViewById(R.id.task_group);
-			final LinearLayout layout = (LinearLayout) rootView.findViewById(R.id.task_layout);
+			final LinearLayout taskLayout = (LinearLayout) rootView.findViewById(R.id.task_layout);
+			final LinearLayout rootLayout = (LinearLayout) rootView.findViewById(R.id.root_layout);
 			
+			
+			
+			WindowManager wm = (WindowManager) rootView.getContext().getSystemService(Context.WINDOW_SERVICE);
+			Display display = wm.getDefaultDisplay();
+			Point screenSize = new Point();
+			display.getSize(screenSize);
+			LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(screenSize.x, android.widget.LinearLayout.LayoutParams.WRAP_CONTENT);
+			rootLayout.setLayoutParams(params);
+
 			
 			final TaskGroup taskGroup = new TaskGroup(taskGroupView, "Testlist 1");
 			
@@ -88,7 +102,7 @@ public class MainActivity extends Activity {
 				public void onClick(View v ){
 					TextView edit = (TextView) rootView.findViewById(R.id.addtask_edit);
 					String taskName = edit.getText().toString();
-					Task newTask = new Task(taskName, rootView.getContext(), layout, adapter);
+					Task newTask = new Task(taskName, rootView.getContext(), taskLayout, adapter);
 					taskGroup.addTask(newTask);
 					edit.setText("");
 				}
@@ -101,8 +115,6 @@ public class MainActivity extends Activity {
 					
 				}
 			});
-			
-			
 			
 			return rootView;
 		}
