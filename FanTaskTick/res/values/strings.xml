@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FanTaskTick</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_text">Add Task</string>
+    <string name="addtask_message">Add new Task</string>
+    <string name="description"> </string>
+    <string name="clear_button">Clear</string>
+    <!--  <string name="action_settings">Settings</string> --> 
+    
+    <string-array name="priority_array">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+    
+    <string-array name="taskgroup_array">
+        <item>Daily Tasks</item>
+        <item>Weekly Tasks</item>
+        <item>Monthly Tasks</item>
+        <item>Reading List</item>
+        <item>Misc</item>
+    </string-array>
+
+</resources>
