@@ -1,16 +1,22 @@
 package com.montasoft.fantasktick;
 
 import android.app.Activity;
+import android.app.Dialog;
+import android.app.DialogFragment;
 
 import java.util.ArrayList;
+import java.util.Calendar;
 
 import android.app.ActionBar;
 import android.app.ActionBar.LayoutParams;
 import android.app.Fragment;
+import android.app.TimePickerDialog;
 import android.content.Context;
 import android.graphics.Point;
 import android.os.Bundle;
+import android.support.v4.app.FragmentActivity;
 import android.text.Editable;
+import android.text.format.DateFormat;
 import android.view.Display;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -24,9 +30,10 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.TimePicker;
 import android.os.Build;
 
-public class MainActivity extends Activity {
+public class MainActivity extends FragmentActivity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -119,4 +126,6 @@ public class MainActivity extends Activity {
 			return rootView;
 		}
 	}
+
+	
 }
