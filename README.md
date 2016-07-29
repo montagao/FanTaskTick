@@ -1,7 +1,9 @@
 # FanTaskTick - Android Task Management Software
 
 Simple but effective task management app 
-<img src="https://github.com/montagao/FanTaskTick/blob/master/demo.png" alt="FanTaskTic in action!" style="width: 50px;"/>
+
+<img src="https://github.com/montagao/FanTaskTick/blob/master/demo.png" alt="FanTaskTic in action!" width="200"/>
+
 
 Features:
 - adding/removing tasks
