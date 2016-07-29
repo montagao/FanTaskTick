@@ -2,7 +2,7 @@
 
 Simple but effective task management app 
 
-<img src="https://github.com/montagao/FanTaskTick/blob/master/demo.png" alt="FanTaskTic in action!" width="200"/>
+<img src="https://github.com/montagao/FanTaskTick/blob/master/demo.png" alt="FanTaskTic in action!" width="400"/>
 
 
 Features:
