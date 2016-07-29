@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/build/intermediates/res/merged/debug/layout/calendar.xml",
+        "source": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/layout/calendar.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/calendardrawable.xml",
+        "source": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/drawable-xxhdpi/calendardrawable.xml"
+    },
+    {
+        "merged": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

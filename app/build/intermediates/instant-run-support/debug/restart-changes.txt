@@ -1,0 +1,4 @@
+CHANGED,/home/mgao/AndroidStudioProjects/FanTaskTick/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/montasoft/fantasktick/Task$Date$1.class
+CHANGED,/home/mgao/AndroidStudioProjects/FanTaskTick/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/montasoft/fantasktick/Task$Date.class
+CHANGED,/home/mgao/AndroidStudioProjects/FanTaskTick/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/montasoft/fantasktick/Task.class
+CHANGED,/home/mgao/AndroidStudioProjects/FanTaskTick/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/montasoft/fantasktick/Task$DatePickerFragment.class

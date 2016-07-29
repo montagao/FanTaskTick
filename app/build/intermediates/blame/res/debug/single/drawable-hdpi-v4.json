@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/calendar.png",
+        "source": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/drawable-hdpi/calendar.png"
+    },
+    {
+        "merged": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/plus.png",
+        "source": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/drawable-hdpi/plus.png"
+    },
+    {
+        "merged": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

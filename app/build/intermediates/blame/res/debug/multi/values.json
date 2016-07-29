@@ -1,0 +1,243 @@
+[
+    {
+        "outputFile": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 429,
+                        "endLine": 16,
+                        "endColumn": 19,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endLine": 14,
+                    "endColumn": 19,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 587,
+                        "endLine": 24,
+                        "endColumn": 19,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 57,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 55,
+                    "endOffset": 541
+                },
+                "from": {
+                    "file": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 546,
+                    "endColumn": 56,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 56,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 48,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 48,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 48,
+                    "endOffset": 696
+                },
+                "from": {
+                    "file": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 48,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 701,
+                    "endColumn": 46,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 313,
+                        "endColumn": 46,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 748,
+                    "endColumn": 41,
+                    "endOffset": 785
+                },
+                "from": {
+                    "file": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 41,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 790,
+                    "endColumn": 56,
+                    "endOffset": 842
+                },
+                "from": {
+                    "file": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 56,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 847,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1138
+                },
+                "from": {
+                    "file": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1143,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1298
+                },
+                "from": {
+                    "file": "/home/mgao/AndroidStudioProjects/FanTaskTick/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 527,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 684
+                    }
+                }
+            }
+        ]
+    }
+]
